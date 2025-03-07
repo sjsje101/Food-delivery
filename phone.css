@@ -1,0 +1,51 @@
+/* navigation section  */
+#navbar{
+    flex-direction: column;
+    /* background-color: red; */
+    padding: 25px;
+}
+ #navbar ul li a{
+    font-size: 1.3rem;
+    padding: 0px 7px;
+}
+
+/* home section  */
+ #Home{
+    height: 723px;
+    margin: 20px;
+    padding: 25px 2px;
+}
+#Home h1{
+    font-size: 2.5rem;
+}
+#Home::before{
+    height: 880px;
+}
+#Home p{
+    font-size: 1.3rem;
+    padding: 20px;
+}
+#Home button{
+    font-size: 2.0rem;
+}
+
+/* services section  */
+ #services{
+    flex-direction:column;
+}
+
+
+
+/* client section  */
+#clients{
+    flex-wrap: wrap;
+}
+
+
+/* contact us section  */
+
+.form-group{
+    width: 80%;
+  }
+
+/* footer  */
